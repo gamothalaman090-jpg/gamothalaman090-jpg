@@ -1,102 +1,104 @@
-<p align="center">
-  <img alt="Visitor Count" src="https://count.getloli.com/@gamothalaman090-jpg?name=gamothalaman090-jpg&theme=booru-lewd&padding=7&offset=0&align=top&shadow=0&scale=1&pixelated=0"/>
-</p>
-
-<p align="center">
-  <img alt="Hey, I'm Eunich!" src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Eunich!%20👾&animation=fadeIn&type=waving&color=0:0d0d0d,100:6e40c9&fontColor=ffffff&height=150&fontSize=40"/>
-</p>
-
-<br/>
-
-<h2 align="center"> About me </h2>
-
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```sh
-eunich@host: ~/profile (main) $ cat about_me.yaml
-```
-
-```yaml
-Name: Eunich John Sese
-Alias: gamothalaman090
-Role: Student & Aspiring Frontend Dev
-Location: Philippines 🇵🇭
-Status: Currently learning & building things
-
-Learning:
-  - HTML / CSS / JavaScript
-  - Frontend Development
-  - UI & Web Design
-
-Fun_Fact: >
-  I break things to understand them,
-  then build them back better. 🕹️
-```
-
-<br clear="both"/>
-<br/>
-
-<h2 align="center">🎶 Favorite Songs</h2>
-
-<p align="right"><a href="https://youtu.be/kFZKgf5WG0g?si=stkKb_MTwHI6D46J"><img src="https://i.ytimg.com/vi/kFZKgf5WG0g/hqdefault.jpg" width="170" align="left"/></a><b><br>Absolute Territory - Ken Ashcorp</b></p>
-<br>
-<br>
-
-<p align="left"><a href="https://youtu.be/hb2mMVdx1KU?si=9lNKcrd7_ua6Y5XB"><img src="https://i.ytimg.com/vi/hb2mMVdx1KU/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Kingslayer - Bring Me The Horizon</b></p>
-<br>
-<br>
-
-<p align="right"><a href="https://youtu.be/X2BYmmTI04I?si=k99uN9qBwY2tM83W"><img src="https://i.ytimg.com/vi/X2BYmmTI04I/hqdefault.jpg" width="170" align="left"/></a><b><br>She Looks So Perfect - 5 Seconds of Summer</b></p>
-<br>
-<br>
-
-<p align="left"><a href="https://youtu.be/QIFn0wqZx7Y?si=myKvZlT13ojiIWC1"><img src="https://i.ytimg.com/vi/QIFn0wqZx7Y/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Crazy Chicks - Ken Ashcorp</b></p>
-
-<br clear="both"/>
-<br/>
-
-<h2 align="center">🔎 Knowledge 📖</h2>
-
 <div align="center">
-  <p align="center">Interests and Passions.<br/></p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,threejs,vscode,git,github&theme=dark" alt="My Skills"/>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
-  </p>
+  <img src="https://count.getloli.com/@:gamothalaman090-jpg?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-<br/>
+###
 
-<h2 align="center">✨ Statistics 👨‍💻</h2>
+<h3 align="left">Hello, I'm Eunich!</h3>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/gamothalaman090-jpg?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia%2FManila&theme=tokyonight" alt="GitHub Metrics" width="100%" />
-</p>
+###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
-<br/>
+###
 
-<h2 align="center">📞 Contact</h2>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB5dHZvNHZvbDVldmY5bnhnNDlucGF3dXkxbHBqcmxtMWM3eTJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9syeOVN0catKl6cPkj/giphy.gif"  />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eunich-john-sese-161685389/">
-    <img alt="LinkedIn Profile" height="30" src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=a855f7"/>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/lain.zxc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  &nbsp;
-  <a href="mailto:eunichjohns@gmail.com">
-    <img alt="Email Contact" height="30" src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=a855f7"/>
+  <a href="discord.com/ko.haku._." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/Eunich14/">
-    <img alt="Facebook Profile" height="30" src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=a855f7"/>
+  <a href="eunichjohns@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/eunich-john-sese-161685389/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+</div>
 
-<p align="center">
-  <img alt="Footer Waving Animation" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d0d0d&height=100&section=footer"/>
-</p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
