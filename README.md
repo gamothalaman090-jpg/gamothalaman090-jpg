@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg?v=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/languages-output/languages.svg?v=1" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -91,14 +91,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg?v=1">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg?v=1">
 </picture>
 
 ###
