@@ -97,6 +97,13 @@
 <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
 
 ###
+
+<div>
+<h2 align="center"> Favorite Songs <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2>
+</div>
+
+##
+
 <p align="right">
   <a href="https://music.youtube.com/watch?v=QIFn0wqZx7Y">
     <img src="https://i.ytimg.com/vi/QIFn0wqZx7Y/maxresdefault.jpg" width="170" align="left"/>
@@ -138,3 +145,8 @@
 </picture>
 
 ###
+
+<h2 align="center">👋 またね 👋</h2>
+<div align="center">
+  <img src="https://www.reddit.com/r/arcane/comments/1iktkip/how_about_little_isha_gifs_next/"/>
+</div>
