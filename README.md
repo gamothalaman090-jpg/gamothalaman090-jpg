@@ -148,5 +148,5 @@
 
 <h2 align="center">👋 またね 👋</h2>
 <div align="center">
-  <img src="https://www.reddit.com/r/arcane/comments/1iktkip/how_about_little_isha_gifs_next/"/>
+  <img src="https://www.tumgik.com/tag/isha%20jinx%20arcane"/>
 </div>
