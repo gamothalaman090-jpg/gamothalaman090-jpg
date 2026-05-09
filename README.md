@@ -1,4 +1,4 @@
-<div align="center">
+<img width="480" height="480" alt="GameSportsGIF" src="https://github.com/user-attachments/assets/1e73a30c-4e0c-4eb6-b377-1925aa5ff899" /><div align="center">
   <img src="Top_Banner.jpg"  />
 </div>
 &nbsp;&nbsp;
@@ -12,6 +12,22 @@
 
 ###
 
+<p>
+<img align="left" src="assets/profile_pic.jpg" width="300" /> 
+
+```
+gamothalaman090-jpg@github
+-------------------------
+🏫 NU MANILA
+📜 BS Information Technology - Mobile and Web Application
+🌱 Loving WebDev lately 
+🏃‍♀️ Working Out / hiking / cycling
+🎮 Deadlock, DOTA, League of Legends, a lot more!!
+🎵 Check out my favorite music below!
+```
+</p>
+
+##
 <div align="center">
   <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg?v=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/languages-output/languages.svg?v=1" height="150" alt="languages graph"  />
