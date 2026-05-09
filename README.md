@@ -92,6 +92,11 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
+
+###
 <p align="right">
   <a href="https://music.youtube.com/watch?v=QIFn0wqZx7Y">
     <img src="https://i.ytimg.com/vi/QIFn0wqZx7Y/maxresdefault.jpg" width="170" align="left"/>
@@ -123,11 +128,6 @@
   <b><br><br>Pierce The Veil – King for a Day (ft. Kellin Quinn)</b>
 </p>
 <br><br><br><br>
-
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
 
 ###
 
