@@ -162,7 +162,7 @@ gamothalaman090-jpg@github
 
 ##
 
-<h2 align="center">👋 またね 👋</h2>
+<h2 align="center"> <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Goodbye!  <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 <div align="center">
   <img src="how-about-little-isha-gifs-next-v0-0tewi9vnhyhe1.gif"/>
 </div>
