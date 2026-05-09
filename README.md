@@ -35,7 +35,6 @@ gamothalaman090-jpg@github
 
 ##
 <br>
-<br>
 <h3 align="center">My Techstack (˵◝ ⩊  ◜˵マ</h3>
 
 ###
@@ -117,6 +116,7 @@ gamothalaman090-jpg@github
 
 <div>
 <h2 align="center"> Favorite Songs <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2>
+  <br>
 </div>
 
 
