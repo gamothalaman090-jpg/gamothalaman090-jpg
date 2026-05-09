@@ -34,10 +34,6 @@ gamothalaman090-jpg@github
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV3amR2dXc1cGpwZWQxdGlndGRkbHFqd241M3BoNGdhOXQ3amVoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O3OJ2meHz0WcnwQwfh/giphy.gif"  />
-
-###
 <br>
 <br>
 <h3 align="center">My Techstack (˵◝ ⩊  ◜˵マ</h3>
