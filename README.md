@@ -38,19 +38,19 @@ Fun_Fact: >
 
 <h2 align="center">🎶 Favorite Songs</h2>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=kE8kGMQDeEw"><img src="https://i.ytimg.com/vi/kE8kGMQDeEw/hqdefault.jpg" width="170" align="left"/></a><b><br>Absolute Territory - Ken Ashcorp</b></p>
+<p align="right"><a href="https://youtu.be/kFZKgf5WG0g?si=stkKb_MTwHI6D46J"><img src="https://i.ytimg.com/vi/kFZKgf5WG0g/hqdefault.jpg" width="170" align="left"/></a><b><br>Absolute Territory - Ken Ashcorp</b></p>
 <br>
 <br>
 
-<p align="left"><a href="https://www.youtube.com/watch?v=fOWEQJKJPE0"><img src="https://i.ytimg.com/vi/fOWEQJKJPE0/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Kingslayer - Bring Me The Horizon</b></p>
+<p align="left"><a href="https://youtu.be/hb2mMVdx1KU?si=9lNKcrd7_ua6Y5XB"><img src="https://i.ytimg.com/vi/hb2mMVdx1KU/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Kingslayer - Bring Me The Horizon</b></p>
 <br>
 <br>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=X2BYmmTI04I"><img src="https://i.ytimg.com/vi/X2BYmmTI04I/hqdefault.jpg" width="170" align="left"/></a><b><br>She Looks So Perfect - 5 Seconds of Summer</b></p>
+<p align="right"><a href="https://youtu.be/X2BYmmTI04I?si=k99uN9qBwY2tM83W"><img src="https://i.ytimg.com/vi/X2BYmmTI04I/hqdefault.jpg" width="170" align="left"/></a><b><br>She Looks So Perfect - 5 Seconds of Summer</b></p>
 <br>
 <br>
 
-<p align="left"><a href="https://www.youtube.com/watch?v=J8r2G659n4I"><img src="https://i.ytimg.com/vi/J8r2G659n4I/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Crazy Chicks - Ken Ashcorp</b></p>
+<p align="left"><a href="https://youtu.be/QIFn0wqZx7Y?si=myKvZlT13ojiIWC1"><img src="https://i.ytimg.com/vi/QIFn0wqZx7Y/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Crazy Chicks - Ken Ashcorp</b></p>
 
 <br clear="both"/>
 <br/>
