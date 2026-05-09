@@ -1,4 +1,4 @@
-<img width="480" height="480" alt="GameSportsGIF" src="https://github.com/user-attachments/assets/1e73a30c-4e0c-4eb6-b377-1925aa5ff899" /><div align="center">
+<div>
   <img src="Top_Banner.jpg"  />
 </div>
 &nbsp;&nbsp;
