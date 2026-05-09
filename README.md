@@ -13,7 +13,7 @@
 ###
 
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="300" /> 
+<img align="left" src="https://www.pinterest.com/ideas/arcane-aesthetic-pfp/915149223899/" width="300" /> 
 
 ```
 gamothalaman090-jpg@github
