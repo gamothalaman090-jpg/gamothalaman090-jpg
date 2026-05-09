@@ -45,31 +45,38 @@ fun_fact: >
 
 ### 🛠️ Tools & Technologies
 
+**Core & Languages**<br>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+**Styling & Frameworks**<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+</p>
+
+**Animation & 3D**<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="gsap" width="40" height="40"/>
+</p>
+
+**Tools & Workflow**<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=gamothalaman090-jpg&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-  <img alt="Top Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamothalaman090-jpg&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gamothalaman090-jpg&theme=midnight-purple&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/gamothalaman090-jpg?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia%2FManila&theme=tokyonight" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
