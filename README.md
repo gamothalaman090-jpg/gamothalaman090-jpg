@@ -107,12 +107,12 @@ gamothalaman090-jpg@github
   <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
 </div>
 
-###
+##
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
 
-###
+##
 
 <div>
 <h2 align="center"> Favorite Songs <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2>
@@ -152,7 +152,7 @@ gamothalaman090-jpg@github
 </p>
 <br><br><br><br>
 
-###
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph-dark.svg?v=1">
@@ -160,7 +160,7 @@ gamothalaman090-jpg@github
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg?v=1">
 </picture>
 
-###
+##
 
 <h2 align="center">👋 またね 👋</h2>
 <div align="center">
