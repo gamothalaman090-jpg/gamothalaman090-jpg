@@ -10,7 +10,7 @@
 
 <h3 align="left">Hello, I'm Eunich! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h3>
 
-###
+##
 
 <p>
 <img align="left" src="Ivy_card.png" width="300" /> 
