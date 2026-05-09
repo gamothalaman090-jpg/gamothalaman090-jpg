@@ -8,12 +8,12 @@
 
 <br/>
 
-<h2 align="center">👁️‍🗨️ About me 👁️‍🗨️</h2>
+<h2 align="center"> About me </h2>
 
 <img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```sh
-eunich@host: ~/profile (main) $ cat about_me.yml
+eunich@host: ~/profile (main) $ cat about_me.yaml
 ```
 
 ```yaml
