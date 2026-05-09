@@ -92,7 +92,39 @@
 </div>
 
 ###
+<p align="right">
+  <a href="https://music.youtube.com/watch?v=QIFn0wqZx7Y">
+    <img src="https://i.ytimg.com/vi/QIFn0wqZx7Y/maxresdefault.jpg" width="170" align="left"/>
+  </a>
+  <b><br>Ken Ashcorp – Crazy Chicks</b>
+</p>
+<br><br><br><br>
 
+<p align="left">
+  <a href="https://music.youtube.com/watch?v=kFZKgf5WG0g">
+    <img src="https://i.ytimg.com/vi/kFZKgf5WG0g/maxresdefault.jpg" width="170" align="right"/>
+  </a>
+  <b><br><br>Ken Ashcorp – Absolute Territory</b>
+</p>
+<br><br><br><br>
+
+<p align="right">
+  <a href="https://music.youtube.com/watch?v=fKyXvNkGQKc">
+    <img src="https://i.ytimg.com/vi/fKyXvNkGQKc/maxresdefault.jpg" width="170" align="left"/>
+  </a>
+  <b><br>Bring Me The Horizon – Kingslayer (ft. BABYMETAL)</b>
+</p>
+<br><br><br><br>
+
+<p align="left">
+  <a href="https://music.youtube.com/watch?v=icXUkIfZxyg">
+    <img src="https://i.ytimg.com/vi/icXUkIfZxyg/maxresdefault.jpg" width="170" align="right"/>
+  </a>
+  <b><br><br>Pierce The Veil – King for a Day (ft. Kellin Quinn)</b>
+</p>
+<br><br><br><br>
+
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
