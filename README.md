@@ -13,7 +13,7 @@
 ###
 
 <p>
-<img align="left" src="Ivy_Card.png" width="300" /> 
+<img align="left" src="Ivy_card.png" width="300" /> 
 
 ```
 gamothalaman090-jpg@github
