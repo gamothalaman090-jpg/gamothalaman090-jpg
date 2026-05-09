@@ -31,6 +31,7 @@ gamothalaman090-jpg@github
 <div align="center">
   <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg?v=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/languages-output/languages.svg?v=1" height="150" alt="languages graph"  />
+  <p>&nbsp;</p>
 </div>
 
 ##
