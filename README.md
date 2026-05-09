@@ -1,21 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:1A1A24,100:00FFFF&height=200&section=header&text=Eunich%20John&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20and%20Web%20App%20Dev%20%7C%20Deadlock%20Player&descSize=16&descAlignY=55" width="100%"/>
-<div>  
-<img width="337" src="./img/top_profile.png" align=right />
-<br/>
-<img src="./img/top_about.png" width="488" />
-<br/>
-<br/>
-<br/>
+<div align="center">
+  <img src="https://count.getloli.com/@:gamothalaman090-jpg?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
-- Name: **Eunich John**.
+###
 
-- From: **Metro Manila, Philippines**.
+<h3 align="left">Hello, I'm Eunich!</h3>
 
-- Currently: studying **BSIT- Mobile and Web Application** at **NU - Manila**.
+###
 
-- Off the clock: **Deadlock Player!**.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg?v=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/languages-output/languages.svg?v=1" height="150" alt="languages graph"  />
+</div>
 
-<br/>
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB5dHZvNHZvbDVldmY5bnhnNDlucGF3dXkxbHBqcmxtMWM3eTJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9syeOVN0catKl6cPkj/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -66,48 +69,36 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
 </div>
 
-<br/>
-<br/>
-<img src="./img/mid_archive.png" width="488" />
-<br/>
-<br/>
-  
+###
+
 <div align="left">
-  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg?v=1" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/languages-output/languages.svg?v=1" height="150" alt="languages graph" />
+  <a href="https://www.instagram.com/lain.zxc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="discord.com/ko.haku._." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="eunichjohns@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/eunich-john-sese-161685389/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
 </div>
-<br/>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
-</div>
-<br/>
-<div align="left">
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/snake-output/snake.svg?v=1" alt="Snake animation" />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph-dark.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg?v=1">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/pacman-output/pacman-contribution-graph.svg?v=1">
 </picture>
-</div>
 
-<img src="./img/mid_profile.png" width="270" align="right" />
-<br/>
-<img src="./img/mid_banner.png" width="500" /><br/>
-<sub>“I'm not crazy, my reality is just different than yours.” – Jinx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
-<br/><br/>
-<p align='center'>
-  <a href="https://www.instagram.com/lain.zxc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF007F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="discord.com/ko.haku._." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=00FFFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="eunichjohns@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF007F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/eunich-john-sese-161685389/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00FFFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=FF007F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
-</p>
-<img src="./img/bottom_banner.png" width="100%" align="center" />
-</div>
+###
