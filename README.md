@@ -25,6 +25,7 @@ gamothalaman090-jpg@github
 🎮 Deadlock, DOTA, League of Legends, a lot more!!
 🎵 Check out my favorite music below!
 ```
+###
 </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/stats-output/stats.svg?v=1" height="150" alt="stats graph"  />
