@@ -34,7 +34,7 @@ gamothalaman090-jpg@github
 </div>
 
 ##
-<h3 align="center">My Techstack (˵◝ ⩊  ◜˵マ</h3>
+<h3 align="center">Languages & Tools (˵◝ ⩊  ◜˵マ</h3>
 
 ###
 
