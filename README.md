@@ -1,6 +1,87 @@
 <p align="center">
+  <img alt="Visitor Count" src="https://count.getloli.com/@gamothalaman090-jpg?name=gamothalaman090-jpg&theme=booru-lewd&padding=7&offset=0&align=top&shadow=0&scale=1&pixelated=0"/>
+</p>
+
+<p align="center">
   <img alt="Hey, I'm Eunich!" src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Eunich!%20👾&animation=fadeIn&type=waving&color=0:0d0d0d,100:6e40c9&fontColor=ffffff&height=150&fontSize=40"/>
 </p>
+
+<br/>
+
+<h2 align="center">👁️‍🗨️ About me 👁️‍🗨️</h2>
+
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```sh
+eunich@host: ~/profile (main) $ cat about_me.yml
+```
+
+```yaml
+Name: Eunich John Sese
+Alias: gamothalaman090
+Role: Student & Aspiring Frontend Dev
+Location: Philippines 🇵🇭
+Status: Currently learning & building things
+
+Learning:
+  - HTML / CSS / JavaScript
+  - Frontend Development
+  - UI & Web Design
+
+Fun_Fact: >
+  I break things to understand them,
+  then build them back better. 🕹️
+```
+
+<br clear="both"/>
+<br/>
+
+<h2 align="center">🎶 Favorite Songs</h2>
+
+<p align="right"><a href="https://www.youtube.com/watch?v=kE8kGMQDeEw"><img src="https://i.ytimg.com/vi/kE8kGMQDeEw/hqdefault.jpg" width="170" align="left"/></a><b><br>Absolute Territory - Ken Ashcorp</b></p>
+<br>
+<br>
+
+<p align="left"><a href="https://www.youtube.com/watch?v=fOWEQJKJPE0"><img src="https://i.ytimg.com/vi/fOWEQJKJPE0/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Kingslayer - Bring Me The Horizon</b></p>
+<br>
+<br>
+
+<p align="right"><a href="https://www.youtube.com/watch?v=X2BYmmTI04I"><img src="https://i.ytimg.com/vi/X2BYmmTI04I/hqdefault.jpg" width="170" align="left"/></a><b><br>She Looks So Perfect - 5 Seconds of Summer</b></p>
+<br>
+<br>
+
+<p align="left"><a href="https://www.youtube.com/watch?v=J8r2G659n4I"><img src="https://i.ytimg.com/vi/J8r2G659n4I/hqdefault.jpg" width="170" align="right"/></a><b><br><br>Crazy Chicks - Ken Ashcorp</b></p>
+
+<br clear="both"/>
+<br/>
+
+<h2 align="center">🔎 Knowledge 📖</h2>
+
+<div align="center">
+  <p align="center">Interests and Passions.<br/></p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,threejs,vscode,git,github&theme=dark" alt="My Skills"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  </p>
+</div>
+
+<br/>
+
+<h2 align="center">✨ Statistics 👨‍💻</h2>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/gamothalaman090-jpg?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia%2FManila&theme=tokyonight" alt="GitHub Metrics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+<br/>
+
+<h2 align="center">📞 Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eunich-john-sese-161685389/">
@@ -15,79 +96,6 @@
     <img alt="Facebook Profile" height="30" src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=a855f7"/>
   </a>
 </p>
-
----
-
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 🌑 About Me
-
-```yaml
-name: Eunich John Sese
-alias: gamothalaman090
-role: Student & Aspiring Frontend Dev
-location: Philippines 🇵🇭
-status: Currently learning & building things
-
-learning:
-  - HTML / CSS / JavaScript
-  - Frontend Development
-  - UI & Web Design
-
-fun_fact: >
-  I break things to understand them,
-  then build them back better. 🕹️
-```
-
----
-
-<br clear="right"/>
-
-### 🛠️ Tools & Technologies
-
-**Core & Languages**<br>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-**Styling & Frameworks**<br>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-</p>
-
-**Animation & 3D**<br>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="gsap" width="40" height="40"/>
-</p>
-
-**Tools & Workflow**<br>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/gamothalaman090-jpg?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia%2FManila&theme=tokyonight" alt="GitHub Metrics" width="100%" />
-</p>
-
----
-
-### 🐍 Watch the Snake Eat My Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gamothalaman090-jpg/gamothalaman090-jpg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
 
 <p align="center">
   <img alt="Footer Waving Animation" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d0d0d&height=100&section=footer"/>
