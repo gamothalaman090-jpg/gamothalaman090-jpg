@@ -148,5 +148,5 @@
 
 <h2 align="center">👋 またね 👋</h2>
 <div align="center">
-  <img src="https://www.tumgik.com/tag/isha%20jinx%20arcane"/>
+  <img src="https://tenor.com/view/isha-and-jinx-handshake-flashback-isha-arcane-running-sacrifice-arcane-season-2-gif-2926318844621968929"/>
 </div>
