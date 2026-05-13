@@ -1,6 +1,6 @@
 <div>
   <img src="Top_Banner.jpg"  />
-</div>a
+</div>
 &nbsp;&nbsp;
 <div align="center">
   <img src="https://count.getloli.com/@:gamothalaman090-jpg?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
