@@ -18,7 +18,7 @@
 ```
 gamothalaman090-jpg@github
 -------------------------
-🏫 NU MANILAasdasdasda
+🏫 NU MANILA
 📜 BS Information Technology - Mobile and Web Application
 🌱 Loving WebDev lately 
 🏃‍♀️ Working Out / hiking / cycling
