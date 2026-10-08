@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://count.getloli.com/@:gamothalaman090-jpg?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-hasdog
+
 ###
 
 <h3 align="left">Hello, I'm Euni! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h3>
